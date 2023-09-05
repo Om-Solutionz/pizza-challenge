@@ -9,7 +9,8 @@ This challenge is about implementing a simple pizza order overview for a restaur
 
 For this purpose, a small full-stack application is to be created with Ruby on Rails, which provides the backend and a web UI to manage the orders. The UI should look like this:
 
-![Orders listing](images/orders_wireframe.png)
+![image](https://github.com/Om-Solutionz/pizza-challenge/assets/10624816/b85febcb-b474-46de-9a43-05aa4e4df9ab)
+
 
 In [`data/orders.json`](data/orders.json) you will find a sample listing that you can use as a basis for your listing. Use it to fill the corresponding fields in the UI.
 
